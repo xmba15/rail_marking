@@ -1,0 +1,14 @@
+name: rail_marking
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python >=3.6
+  - anaconda
+  - pytorch=1.5.0
+  - torchvision=0.6.0
+  - cudatoolkit=10.2
+  - cudnn=7.6.5
+  - pip
+  - pip:
+      - -r file:requirements.txt
