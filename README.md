@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/285561781.svg)](https://zenodo.org/badge/latestdoi/285561781)
+
 # 📝 proof-of-concept rail marking detections for autonomous train system #
 ***
 
